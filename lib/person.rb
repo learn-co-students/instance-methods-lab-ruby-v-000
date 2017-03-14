@@ -1,4 +1,5 @@
 class Person
+  #instance methods
   def talk
     puts "Hello World!"
   end

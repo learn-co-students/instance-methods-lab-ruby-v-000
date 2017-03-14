@@ -1,4 +1,5 @@
 class Dog
+  #instance methods
   def bark
     puts "Woof!"
   end
