@@ -1,5 +1,5 @@
 # Instance Methods Lab Ruby
-
+hi
 ## Objectives
 
 1. Define a class.
