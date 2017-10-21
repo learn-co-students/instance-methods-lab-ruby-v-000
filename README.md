@@ -1,5 +1,20 @@
 # Instance Methods Lab Ruby
 
+puts 'omagadslkfjalskdfjalskdjflkasjdflkasjdflkasdjfasdjf'
+asdkfjlaskdfjklasdjflksajdflkjsdflkjasdlfkjasdkfjasdlkfjasdlkfjasldkfjlaks
+aslkdjflkasdjflkasjf
+asdfasdfjas
+dfjsakdfjlkajdsflkajsldkfjlaskdf
+
+
+
+
+
+
+
+
+
+
 ## Objectives
 
 1. Define a class.
