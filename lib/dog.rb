@@ -1,4 +1,4 @@
-class dog
+class Dog
 end
 
 def bark
