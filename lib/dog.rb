@@ -1,11 +1,10 @@
-class Dog #defines the class
+class Dog
 
-  def bark #defines an instance method called "bark" within the Dog class
-  puts "Woof!" #Woof!
+  def bark
+    puts "Woof!"
   end
 
-  def sit #defines an instance method called 'sit' within the Dog class
+  def sit
     puts "The Dog is sitting"
   end
-  
 end
